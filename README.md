@@ -13,6 +13,6 @@ esp32 c3 for managing inputs and controlling leds
 
 ## BOM:
 
-<h3><a href="jlcpcb/production_files/CPL-fallout_badge.csv">BOM CSV</a></h3>
+<h3><a href="fallout_badge/jlcpcb/production_files/CPL-fallout_badge.csv">BOM CSV</a></h3>
 
 @flush on slack
